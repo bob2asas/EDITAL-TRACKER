@@ -1,0 +1,82 @@
+{
+  "_fonte": "Edital nº 1 - SEFAZ/AL, de 24 de agosto de 2026 - Auditor Fiscal da Administracao Tributaria Estadual (AFTE), banca Cebraspe",
+  "_observacao": "CONCURSO ABERTO. Inscricoes ate 21/10/2026 e taxa ate 23/10/2026.",
+
+  "data_prova": "2026-12-20",
+  "local": "Maceio/AL",
+  "vagas": "100 (40 imediatas: 30 ampla, 2 PcD, 8 PPIQ | 60 de cadastro de reserva)",
+  "salario": "R$ 25.270,68",
+
+  "inscricoes": {
+    "inicio": "2026-09-17",
+    "fim": "2026-10-21"
+  },
+
+  "discursiva": {
+    "tem": true,
+    "tipo": "4 questoes discursivas de ate 30 linhas cada",
+    "materias": [
+      "Ciencia de Dados",
+      "Auditoria Fiscal",
+      "Financas Publicas",
+      "Reforma Tributaria"
+    ],
+    "peso": "40 pts (4 x 10), minimo 20 - eliminatoria",
+    "observacao": "Aplicada em 10/01/2027, em dia separado das objetivas, com 4h30 de duracao. So e corrigida para os 375 melhores da ampla concorrencia (25 PcD e 100 PPIQ). Nota NQi = NCi - 2 x NEi / TLi, ou seja, erros de gramatica descontam."
+  },
+
+  "observacoes": [
+    "ATENCAO: inscricoes abertas ate 21/10/2026 - taxa ate 23/10/2026",
+    "Provas objetivas: 20/12/2026, a tarde, 4h30 - 160 itens no formato CERTO/ERRADO do Cebraspe",
+    "Prova discursiva: 10/01/2027, a tarde, 4h30",
+    "P1 Conhecimentos Basicos: 60 itens, 60 pontos",
+    "P2 Conhecimentos Especificos: 100 itens, 100 pontos",
+    "Discursiva: 40 pontos - nota final do concurso soma 200 pontos",
+    "Item errado anula item certo (pontuacao negativa) - caracteristica do Cebraspe",
+    "Bloco de TI vale 50 itens: Ciencia de Dados 20, IA 10, Desenvolvimento de Sistemas 10, Infra de TIC e Seguranca 10",
+    "Carga horaria 40h - resultado final previsto para 5/2/2027"
+  ],
+
+  "mapa_pontuacao": {
+    "_nota": "O quadro do item 7.1 informa o numero de itens por disciplina. Cada item vale 1 ponto.",
+    "Matemática Financeira": "Matemática Financeira",
+    "Direito Constitucional": "Direito Constitucional",
+    "Direito Administrativo": "Direito Administrativo",
+    "Contabilidade Geral": "Contabilidade Geral",
+    "Direito Tributário": "Direito Tributário",
+    "Estatística e Probabilidade": "Estatística e Probabilidade",
+    "Contabilidade Pública": "Contabilidade Pública",
+    "Economia": "Economia",
+    "Finanças Públicas": "Finanças Públicas",
+    "Legislação Tributária Estadual": "Legislação Tributária Estadual",
+    "Inteligência Artificial": "Inteligência Artificial",
+    "Desenvolvimento de Sistemas": "Desenvolvimento de Sistemas",
+    "Infraestrutura de TIC e Segurança da Informação": "Infraestrutura de TIC e Segurança da Informação",
+    "Reforma Tributária": "Reforma Tributária",
+    "Auditoria Fiscal": "Auditoria Fiscal",
+    "Ciência de Dados": "Ciência de Dados",
+    "Prova Discursiva": "Prova Discursiva"
+  },
+
+  "pontuacao": {
+    "_nota": "Quadro do item 7.1 do edital. P1 e P2 valem 1 ponto por item; a discursiva vale 40.",
+    "Matemática Financeira": { "questoes": 5, "valor": 1, "maximo": 5 },
+    "Direito Constitucional": { "questoes": 5, "valor": 1, "maximo": 5 },
+    "Direito Administrativo": { "questoes": 5, "valor": 1, "maximo": 5 },
+    "Contabilidade Geral": { "questoes": 5, "valor": 1, "maximo": 5 },
+    "Direito Tributário": { "questoes": 10, "valor": 1, "maximo": 10 },
+    "Estatística e Probabilidade": { "questoes": 10, "valor": 1, "maximo": 10 },
+    "Contabilidade Pública": { "questoes": 10, "valor": 1, "maximo": 10 },
+    "Economia": { "questoes": 10, "valor": 1, "maximo": 10 },
+    "Finanças Públicas": { "questoes": 10, "valor": 1, "maximo": 10 },
+    "Legislação Tributária Estadual": { "questoes": 10, "valor": 1, "maximo": 10 },
+    "Inteligência Artificial": { "questoes": 10, "valor": 1, "maximo": 10 },
+    "Desenvolvimento de Sistemas": { "questoes": 10, "valor": 1, "maximo": 10 },
+    "Infraestrutura de TIC e Segurança da Informação": { "questoes": 10, "valor": 1, "maximo": 10 },
+    "Reforma Tributária": { "questoes": 15, "valor": 1, "maximo": 15 },
+    "Auditoria Fiscal": { "questoes": 15, "valor": 1, "maximo": 15 },
+    "Ciência de Dados": { "questoes": 20, "valor": 1, "maximo": 20 },
+    "Prova Discursiva": { "questoes": 4, "valor": 10, "maximo": 40, "minimo": 20 },
+    "total": 200
+  }
+}

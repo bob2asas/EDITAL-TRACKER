@@ -1,0 +1,20 @@
+# --- saidas e dados pessoais: ficam so na sua maquina ---
+index.html
+marcas.json
+publicar.json
+data/
+editais/*/decisoes.json
+editais/*/manual.json
+editais/*/ocultas.json
+editais/*/edital.json
+!editais/exemplo-sefaz-al/edital.json
+editais/*/legislacao-municipal/
+
+# --- marcador local do script de exportacao ---
+.exportado-pelo-tracker
+
+# --- lixo de sistema ---
+__pycache__/
+*.pyc
+desktop.ini
+.DS_Store

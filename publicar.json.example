@@ -1,0 +1,4 @@
+{
+  "_leia-me": "Copie este arquivo para publicar.json e aponte para um repositorio LOCAL que sirva o GitHub Pages. Mantenha-o fora do Google Drive/OneDrive (o .git nao se da bem com sincronizacao). Use barras normais no caminho.",
+  "repo": "C:/caminho/para/o/repositorio-do-pages"
+}

@@ -1,0 +1,4541 @@
+{
+  "concurso": "SEFAZ AL",
+  "cargo": "Auditor Fiscal",
+  "banca": "Cebraspe",
+  "gerado_em": "2026-11-01",
+  "versao_schema": 1,
+  "estatisticas": {
+    "disciplinas": 17,
+    "topicos": 162,
+    "subtopicos": 409,
+    "subtopicos_concluidos": 0
+  },
+  "disciplinas": [
+    {
+      "id": "matematica-financeira",
+      "nome": "Matemática Financeira",
+      "peso": 1.0,
+      "topicos": [
+        {
+          "id": "matematica-financeira::t::6090e24a",
+          "numero": "1",
+          "titulo": "Regra de três simples e composta, proporcionalidades e porcentagens",
+          "subtopicos": [
+            {
+              "id": "matematica-financeira::t::6090e24a::s::ee982877",
+              "texto": "Regra de três simples e composta, proporcionalidades e porcentagens",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "matematica-financeira::t::750c2f4c",
+          "numero": "2",
+          "titulo": "Juros simples e compostos",
+          "subtopicos": [
+            {
+              "id": "matematica-financeira::t::750c2f4c::s::74d5d662",
+              "texto": "Juros simples e compostos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "matematica-financeira::t::27b64292",
+          "numero": "3",
+          "titulo": "Capitalização e desconto",
+          "subtopicos": [
+            {
+              "id": "matematica-financeira::t::27b64292::s::212433fb",
+              "texto": "Capitalização e desconto",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "matematica-financeira::t::9aa794d9",
+          "numero": "4",
+          "titulo": "Taxas de juros nominal, efetiva, equivalente, real e aparente",
+          "subtopicos": [
+            {
+              "id": "matematica-financeira::t::9aa794d9::s::bf9a186d",
+              "texto": "Taxas de juros nominal, efetiva, equivalente, real e aparente",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "matematica-financeira::t::d89e9093",
+          "numero": "5",
+          "titulo": "Rendas uniformes e variáveis",
+          "subtopicos": [
+            {
+              "id": "matematica-financeira::t::d89e9093::s::c1bb489c",
+              "texto": "Rendas uniformes e variáveis",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "matematica-financeira::t::f0a59d09",
+          "numero": "6",
+          "titulo": "Planos de amortização de empréstimos e financiamentos",
+          "subtopicos": [
+            {
+              "id": "matematica-financeira::t::f0a59d09::s::bc7feb95",
+              "texto": "Planos de amortização de empréstimos e financiamentos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "matematica-financeira::t::f0a59d09::s::16cd0bf2",
+              "texto": "6.1 Sistema francês (tabela Price)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "matematica-financeira::t::f0a59d09::s::b83a1995",
+              "texto": "6.2 Sistema de amortização constante (SAC)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "matematica-financeira::t::f0a59d09::s::88459248",
+              "texto": "6.3 Sistema de amortização misto (SAM)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "matematica-financeira::t::2970836c",
+          "numero": "7",
+          "titulo": "Cálculo financeiro",
+          "subtopicos": [
+            {
+              "id": "matematica-financeira::t::2970836c::s::d5a95ff9",
+              "texto": "Cálculo financeiro",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "matematica-financeira::t::2970836c::s::4eb46e9d",
+              "texto": "7.1 Custo real e efetivo das operações de financiamento, empréstimo e investimento",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "matematica-financeira::t::fcef38af",
+          "numero": "8",
+          "titulo": "Avaliação econômica de projetos",
+          "subtopicos": [
+            {
+              "id": "matematica-financeira::t::fcef38af::s::19958b2d",
+              "texto": "Avaliação econômica de projetos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "matematica-financeira::t::d59a8a44",
+          "numero": "9",
+          "titulo": "Taxas de retorno e taxas internas de retorno",
+          "subtopicos": [
+            {
+              "id": "matematica-financeira::t::d59a8a44::s::6cbc9ac6",
+              "texto": "Taxas de retorno e taxas internas de retorno",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "direito-constitucional",
+      "nome": "Direito Constitucional",
+      "peso": 1.0,
+      "topicos": [
+        {
+          "id": "direito-constitucional::t::5f5cfedf",
+          "numero": "1",
+          "titulo": "Constituição da República Federativa do Brasil de 1988",
+          "subtopicos": [
+            {
+              "id": "direito-constitucional::t::5f5cfedf::s::7c8f905a",
+              "texto": "Constituição da República Federativa do Brasil de 1988",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-constitucional::t::cf3fea10",
+          "numero": "2",
+          "titulo": "Aplicabilidade das normas constitucionais",
+          "subtopicos": [
+            {
+              "id": "direito-constitucional::t::cf3fea10::s::f90c7ac8",
+              "texto": "Aplicabilidade das normas constitucionais",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::cf3fea10::s::2b500de1",
+              "texto": "2.1 Normas de eficácia plena, contida e limitada",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::cf3fea10::s::2b7841f0",
+              "texto": "2.2 Normas programáticas",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-constitucional::t::015a909b",
+          "numero": "3",
+          "titulo": "Direitos e garantias fundamentais",
+          "subtopicos": [
+            {
+              "id": "direito-constitucional::t::015a909b::s::ce434c2c",
+              "texto": "Direitos e garantias fundamentais",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::015a909b::s::d43e0c8f",
+              "texto": "3.1 Direitos e deveres individuais e coletivos, direitos sociais, direitos de nacionalidade, direitos políticos, partidos políticos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-constitucional::t::d0c8b3da",
+          "numero": "4",
+          "titulo": "Organização político-administrativa do Estado",
+          "subtopicos": [
+            {
+              "id": "direito-constitucional::t::d0c8b3da::s::fb0c16b9",
+              "texto": "Organização político-administrativa do Estado",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::d0c8b3da::s::4b59176d",
+              "texto": "4.1 Estado federal brasileiro, União, estados, Distrito Federal, municípios e territórios",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-constitucional::t::0140184a",
+          "numero": "5",
+          "titulo": "Administração pública",
+          "subtopicos": [
+            {
+              "id": "direito-constitucional::t::0140184a::s::592a7b83",
+              "texto": "Administração pública",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::0140184a::s::6d966217",
+              "texto": "5.1 Disposições gerais, servidores públicos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-constitucional::t::91a585be",
+          "numero": "6",
+          "titulo": "Poder Executivo",
+          "subtopicos": [
+            {
+              "id": "direito-constitucional::t::91a585be::s::a9e3416b",
+              "texto": "Poder Executivo",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::91a585be::s::fdc41f59",
+              "texto": "6.1 Atribuições e responsabilidades do presidente da República",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-constitucional::t::44a861b1",
+          "numero": "7",
+          "titulo": "Poder Legislativo",
+          "subtopicos": [
+            {
+              "id": "direito-constitucional::t::44a861b1::s::695dea13",
+              "texto": "Poder Legislativo",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::44a861b1::s::071279d7",
+              "texto": "7.1 Estrutura",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::44a861b1::s::3c016b05",
+              "texto": "7.2 Funcionamento e atribuições",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::44a861b1::s::1035c91d",
+              "texto": "7.3 Processo legislativo",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::44a861b1::s::0cba69bb",
+              "texto": "7.3.1 Processo legislativo federal: conceito, espécies normativas, modalidades, fases",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::44a861b1::s::74cf0b85",
+              "texto": "7.3.2 Processo legislativo estadual, distrital e municipal: normas constitucionais federais aplicáveis",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::44a861b1::s::ea3d76a7",
+              "texto": "7.4 Fiscalização contábil, financeira e orçamentária",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::44a861b1::s::dbb5ba3c",
+              "texto": "7.5 Comissões parlamentares de inquérito",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-constitucional::t::4bc8fcb8",
+          "numero": "8",
+          "titulo": "Poder Judiciário",
+          "subtopicos": [
+            {
+              "id": "direito-constitucional::t::4bc8fcb8::s::773c037b",
+              "texto": "Poder Judiciário",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::4bc8fcb8::s::c5ee2209",
+              "texto": "8.1 Disposições gerais",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-constitucional::t::84eef211",
+          "numero": "9",
+          "titulo": "Funções essenciais à justiça",
+          "subtopicos": [
+            {
+              "id": "direito-constitucional::t::84eef211::s::cc292e0c",
+              "texto": "Funções essenciais à justiça",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::84eef211::s::3c500d3b",
+              "texto": "9.1 Ministério Público, advocacia pública",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::84eef211::s::d5225862",
+              "texto": "9.2 Advocacia privada e Defensoria Pública",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-constitucional::t::8b6c7db0",
+          "numero": "10",
+          "titulo": "Controle de constitucionalidade",
+          "subtopicos": [
+            {
+              "id": "direito-constitucional::t::8b6c7db0::s::8db01df1",
+              "texto": "Controle de constitucionalidade",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::8b6c7db0::s::c087fe74",
+              "texto": "10.1 Controle judicial de constitucionalidade: conceito, histórico, sistemas, pressupostos, modalidades, órgãos competentes, sujeitos legitimados, objetos de controle, tipos de inconstitucionalidade, parâmetros de controle, formalidades, procedimentos, julgamentos, decisões, efeitos das decisões, técnicas de decisão, segurança e estabilidade das decisões",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::8b6c7db0::s::370f8b57",
+              "texto": "10.2 Súmula vinculante",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::8b6c7db0::s::f13efe37",
+              "texto": "10.3 Reclamação constitucional",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::8b6c7db0::s::497e945f",
+              "texto": "10.4 Controle não judicial de constitucionalidade: órgãos, institutos e procedimentos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-constitucional::t::8b6c7db0::s::14bedaf1",
+              "texto": "10.5 Controle de constitucionalidade nos estados e no Distrito Federal",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-constitucional::t::765f9e4f",
+          "numero": "11",
+          "titulo": "Ordem econômica e financeira",
+          "subtopicos": [
+            {
+              "id": "direito-constitucional::t::765f9e4f::s::fc364450",
+              "texto": "Ordem econômica e financeira",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-constitucional::t::93bdf737",
+          "numero": "12",
+          "titulo": "Finanças públicas",
+          "subtopicos": [
+            {
+              "id": "direito-constitucional::t::93bdf737::s::1213299c",
+              "texto": "Finanças públicas",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "direito-administrativo",
+      "nome": "Direito Administrativo",
+      "peso": 1.0,
+      "topicos": [
+        {
+          "id": "direito-administrativo::t::a2bda8a7",
+          "numero": "1",
+          "titulo": "Estado, governo e administração pública",
+          "subtopicos": [
+            {
+              "id": "direito-administrativo::t::a2bda8a7::s::2c1d40a1",
+              "texto": "Estado, governo e administração pública",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::a2bda8a7::s::e9e7ee22",
+              "texto": "1.1 Conceitos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::a2bda8a7::s::046913c8",
+              "texto": "1.2 Elementos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-administrativo::t::db28ea2a",
+          "numero": "2",
+          "titulo": "Direito administrativo",
+          "subtopicos": [
+            {
+              "id": "direito-administrativo::t::db28ea2a::s::108844ad",
+              "texto": "Direito administrativo",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::db28ea2a::s::571dc34d",
+              "texto": "2.1 Conceito; 2.2 Objeto; 2.3 Fontes",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-administrativo::t::3ce1d57d",
+          "numero": "3",
+          "titulo": "Ato administrativo",
+          "subtopicos": [
+            {
+              "id": "direito-administrativo::t::3ce1d57d::s::f789f755",
+              "texto": "Ato administrativo",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::3ce1d57d::s::016f2426",
+              "texto": "3.1 Conceito, requisitos, atributos, classificação e espécies",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::3ce1d57d::s::226c697a",
+              "texto": "3.2 Extinção do ato administrativo",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::3ce1d57d::s::7eb1cc9c",
+              "texto": "3.2.1 Cassação, anulação, revogação e convalidação",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::3ce1d57d::s::378947ab",
+              "texto": "3.3 Decadência administrativa",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-administrativo::t::16c4742f",
+          "numero": "4",
+          "titulo": "Agentes públicos",
+          "subtopicos": [
+            {
+              "id": "direito-administrativo::t::16c4742f::s::d889889c",
+              "texto": "Agentes públicos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::16c4742f::s::80f7fbe2",
+              "texto": "4.1 Disposições constitucionais aplicáveis",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::16c4742f::s::b3815de8",
+              "texto": "4.2 Disposições doutrinárias",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::16c4742f::s::71216976",
+              "texto": "4.2.1 Conceito",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::16c4742f::s::4354dc08",
+              "texto": "4.2.2 Espécies",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::16c4742f::s::68755f71",
+              "texto": "4.2.3 Cargo, emprego e função pública",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::16c4742f::s::808afae1",
+              "texto": "4.2.4 Provimento",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::16c4742f::s::35fc07b2",
+              "texto": "4.2.5 Vacância",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::16c4742f::s::55b61be9",
+              "texto": "4.2.6 Efetividade, estabilidade e vitaliciedade",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::16c4742f::s::805d17c6",
+              "texto": "4.2.7 Remuneração",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::16c4742f::s::7740e658",
+              "texto": "4.2.8 Direitos e deveres",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::16c4742f::s::8b01536a",
+              "texto": "4.2.9 Responsabilidade",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::16c4742f::s::9a8967d9",
+              "texto": "4.2.10 Processo administrativo disciplinar",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-administrativo::t::19b0a2bc",
+          "numero": "5",
+          "titulo": "Poderes da administração pública",
+          "subtopicos": [
+            {
+              "id": "direito-administrativo::t::19b0a2bc::s::0c0f8f22",
+              "texto": "Poderes da administração pública",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::19b0a2bc::s::bf3dc64c",
+              "texto": "5.1 Hierárquico, disciplinar, regulamentar e de polícia",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::19b0a2bc::s::d66b8a4e",
+              "texto": "5.2 Uso e abuso do poder",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-administrativo::t::3a292494",
+          "numero": "6",
+          "titulo": "Regime jurídico administrativo",
+          "subtopicos": [
+            {
+              "id": "direito-administrativo::t::3a292494::s::5a43cef6",
+              "texto": "Regime jurídico administrativo",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::3a292494::s::252a9624",
+              "texto": "6.1 Conceito",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::3a292494::s::0dcd109e",
+              "texto": "6.2 Princípios expressos e implícitos da administração pública",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-administrativo::t::d63236dc",
+          "numero": "7",
+          "titulo": "Responsabilidade civil do Estado",
+          "subtopicos": [
+            {
+              "id": "direito-administrativo::t::d63236dc::s::25d95744",
+              "texto": "Responsabilidade civil do Estado",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d63236dc::s::649d2d4a",
+              "texto": "7.1 Evolução histórica",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d63236dc::s::c97c7965",
+              "texto": "7.2 Responsabilidade civil do Estado no direito brasileiro",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d63236dc::s::7e28209e",
+              "texto": "7.2.1 Responsabilidade por ato comissivo do Estado",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d63236dc::s::d5b3b293",
+              "texto": "7.2.2 Responsabilidade por omissão do Estado",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d63236dc::s::334574dc",
+              "texto": "7.3 Requisitos para a demonstração da responsabilidade do Estado",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d63236dc::s::f2446e6e",
+              "texto": "7.4 Causas excludentes e atenuantes da responsabilidade do Estado",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d63236dc::s::b39da93b",
+              "texto": "7.5 Reparação do dano",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d63236dc::s::a177fb2a",
+              "texto": "7.6 Direito de regresso",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-administrativo::t::af32c3b1",
+          "numero": "8",
+          "titulo": "Serviços públicos",
+          "subtopicos": [
+            {
+              "id": "direito-administrativo::t::af32c3b1::s::3d635c6e",
+              "texto": "Serviços públicos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::af32c3b1::s::26c628bd",
+              "texto": "8.1 Conceito",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::af32c3b1::s::2c32e029",
+              "texto": "8.2 Elementos constitutivos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::af32c3b1::s::873ad98e",
+              "texto": "8.3 Formas de prestação e meios de execução",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::af32c3b1::s::c3e871b0",
+              "texto": "8.4 Delegação",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::af32c3b1::s::54424bb0",
+              "texto": "8.4.1 Concessão, permissão e autorização",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::af32c3b1::s::f05cd582",
+              "texto": "8.5 Classificação",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::af32c3b1::s::cef7ab57",
+              "texto": "8.6 Princípios",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-administrativo::t::68da51da",
+          "numero": "9",
+          "titulo": "Organização administrativa",
+          "subtopicos": [
+            {
+              "id": "direito-administrativo::t::68da51da::s::6f18d4ea",
+              "texto": "Organização administrativa",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::68da51da::s::1e3e00b8",
+              "texto": "9.1 Centralização, descentralização, concentração e desconcentração",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::68da51da::s::a7d1acc2",
+              "texto": "9.2 Administração direta e indireta",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::68da51da::s::1a09ea38",
+              "texto": "9.3 Autarquias, fundações, empresas públicas e sociedades de economia mista",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::68da51da::s::c4920298",
+              "texto": "9.4 Entidades paraestatais e terceiro setor",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::68da51da::s::6098f00f",
+              "texto": "9.4.1 Serviços sociais autônomos, entidades de apoio, organizações sociais, organizações da sociedade civil de interesse público",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-administrativo::t::57da0446",
+          "numero": "10",
+          "titulo": "Controle da administração pública",
+          "subtopicos": [
+            {
+              "id": "direito-administrativo::t::57da0446::s::56b2b9a4",
+              "texto": "Controle da administração pública",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::57da0446::s::94e57742",
+              "texto": "10.1 Controle exercido pela administração pública",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::57da0446::s::758b0c83",
+              "texto": "10.2 Controle judicial",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::57da0446::s::c49fa5d0",
+              "texto": "10.3 Controle legislativo",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::57da0446::s::3668f4ed",
+              "texto": "10.4 Improbidade administrativa",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::57da0446::s::f26f6821",
+              "texto": "10.4.1 Lei nº 8.429/1992 e suas alterações",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-administrativo::t::12115d9d",
+          "numero": "11",
+          "titulo": "Processo administrativo",
+          "subtopicos": [
+            {
+              "id": "direito-administrativo::t::12115d9d::s::26c6664b",
+              "texto": "Processo administrativo",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-administrativo::t::d42dd756",
+          "numero": "12",
+          "titulo": "Licitações e contratos administrativos",
+          "subtopicos": [
+            {
+              "id": "direito-administrativo::t::d42dd756::s::d02af8b1",
+              "texto": "Licitações e contratos administrativos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d42dd756::s::af5c251e",
+              "texto": "12.1 Legislação pertinente",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d42dd756::s::5cf33370",
+              "texto": "12.1.1 Lei nº 14.133/2021",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d42dd756::s::c6c89b88",
+              "texto": "12.1.2 Decreto nº 11.462/2013 e suas alterações (Sistema de registro de preços)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d42dd756::s::36e64d9f",
+              "texto": "12.2 Fundamentos constitucionais",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d42dd756::s::23f11f01",
+              "texto": "12.3 Elaboração e fiscalização de contratos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d42dd756::s::60ef359d",
+              "texto": "12.4 Elaboração de projetos básicos para contratação de bens e serviços",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d42dd756::s::fa7bb2b5",
+              "texto": "12.5 Critérios de remuneração por esforço versus produto",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d42dd756::s::1d1ccc27",
+              "texto": "12.6 Cláusulas e indicadores de nível de serviço",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d42dd756::s::7a702838",
+              "texto": "12.7 Papel do fiscalizador do contrato",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d42dd756::s::b3071808",
+              "texto": "12.8 Acompanhamento da execução contratual",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-administrativo::t::d42dd756::s::262caf3f",
+              "texto": "12.9 Definição e aplicação de penalidades e sanções administrativas",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-administrativo::t::f0dd8253",
+          "numero": "13",
+          "titulo": "Crimes contra a Administração Pública previstos no Código Penal",
+          "subtopicos": [
+            {
+              "id": "direito-administrativo::t::f0dd8253::s::10457850",
+              "texto": "Crimes contra a Administração Pública previstos no Código Penal",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "contabilidade-geral",
+      "nome": "Contabilidade Geral",
+      "peso": 1.0,
+      "topicos": [
+        {
+          "id": "contabilidade-geral::t::b26de984",
+          "numero": "1",
+          "titulo": "Conceitos, objetivos e finalidades da contabilidade",
+          "subtopicos": [
+            {
+              "id": "contabilidade-geral::t::b26de984::s::3a42071a",
+              "texto": "Conceitos, objetivos e finalidades da contabilidade",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-geral::t::bbbdf4a9",
+          "numero": "2",
+          "titulo": "Patrimônio: componentes, equação fundamental do patrimônio, situação líquida, representação gráfica",
+          "subtopicos": [
+            {
+              "id": "contabilidade-geral::t::bbbdf4a9::s::6b38696e",
+              "texto": "Patrimônio: componentes, equação fundamental do patrimônio, situação líquida, representação gráfica",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-geral::t::fa3d228c",
+          "numero": "3",
+          "titulo": "Atos e fatos administrativos: conceitos, fatos permutativos, modificativos e mistos",
+          "subtopicos": [
+            {
+              "id": "contabilidade-geral::t::fa3d228c::s::a94d558a",
+              "texto": "Atos e fatos administrativos: conceitos, fatos permutativos, modificativos e mistos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-geral::t::13965fb6",
+          "numero": "4",
+          "titulo": "Contas: conceitos, contas de débitos, contas de créditos e saldos",
+          "subtopicos": [
+            {
+              "id": "contabilidade-geral::t::13965fb6::s::8cb9b638",
+              "texto": "Contas: conceitos, contas de débitos, contas de créditos e saldos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-geral::t::747625ac",
+          "numero": "5",
+          "titulo": "Plano de contas: conceitos, elenco de contas, função e funcionamento das contas",
+          "subtopicos": [
+            {
+              "id": "contabilidade-geral::t::747625ac::s::4ddb4bc1",
+              "texto": "Plano de contas: conceitos, elenco de contas, função e funcionamento das contas",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-geral::t::f4e04532",
+          "numero": "6",
+          "titulo": "Escrituração: conceitos, lançamentos contábeis, elementos essenciais, fórmulas de lançamentos, livros de escrituração, métodos e processos, regime de competência e regime de caixa",
+          "subtopicos": [
+            {
+              "id": "contabilidade-geral::t::f4e04532::s::31f7fb50",
+              "texto": "Escrituração: conceitos, lançamentos contábeis, elementos essenciais, fórmulas de lançamentos, livros de escrituração, métodos e processos, regime de competência e regime de caixa",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-geral::t::16c38937",
+          "numero": "7",
+          "titulo": "Contabilização de operações contábeis diversas: juros, descontos, tributos, aluguéis, variação monetária e cambial, folha de pagamento, compras, vendas e provisões, depreciações e baixa de bens",
+          "subtopicos": [
+            {
+              "id": "contabilidade-geral::t::16c38937::s::573d7026",
+              "texto": "Contabilização de operações contábeis diversas: juros, descontos, tributos, aluguéis, variação monetária e cambial, folha de pagamento, compras, vendas e provisões, depreciações e baixa de bens",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-geral::t::66bd2e17",
+          "numero": "8",
+          "titulo": "Balancete de verificação: conceitos, modelos e técnicas de elaboração",
+          "subtopicos": [
+            {
+              "id": "contabilidade-geral::t::66bd2e17::s::95783a50",
+              "texto": "Balancete de verificação: conceitos, modelos e técnicas de elaboração",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-geral::t::d35a507e",
+          "numero": "9",
+          "titulo": "Balanço patrimonial: conceitos, objetivo, composição",
+          "subtopicos": [
+            {
+              "id": "contabilidade-geral::t::d35a507e::s::4086f134",
+              "texto": "Balanço patrimonial: conceitos, objetivo, composição",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-geral::t::c3480ee1",
+          "numero": "10",
+          "titulo": "Demonstração de resultado de exercício: conceito, objetivo, composição",
+          "subtopicos": [
+            {
+              "id": "contabilidade-geral::t::c3480ee1::s::cf482aa6",
+              "texto": "Demonstração de resultado de exercício: conceito, objetivo, composição",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-geral::t::dacc921e",
+          "numero": "11",
+          "titulo": "Normas Brasileiras de Contabilidade",
+          "subtopicos": [
+            {
+              "id": "contabilidade-geral::t::dacc921e::s::cb4c03ff",
+              "texto": "Normas Brasileiras de Contabilidade",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "direito-tributario",
+      "nome": "Direito Tributário",
+      "peso": 1.0,
+      "topicos": [
+        {
+          "id": "direito-tributario::t::f68ad8a8",
+          "numero": "1",
+          "titulo": "Sistema Tributário Nacional",
+          "subtopicos": [
+            {
+              "id": "direito-tributario::t::f68ad8a8::s::55e5cd5d",
+              "texto": "Sistema Tributário Nacional",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::f68ad8a8::s::c7470094",
+              "texto": "Princípios Gerais",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::f68ad8a8::s::cffc528a",
+              "texto": "Limitações do Poder de Tributar",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-tributario::t::eb8dd2e2",
+          "numero": "2",
+          "titulo": "Direito tributário",
+          "subtopicos": [
+            {
+              "id": "direito-tributario::t::eb8dd2e2::s::c9e54195",
+              "texto": "Direito tributário",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::eb8dd2e2::s::af5eddae",
+              "texto": "Conceito e princípios",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-tributario::t::f2b595ab",
+          "numero": "3",
+          "titulo": "Tributos: conceito e espécies; Impostos; Taxas",
+          "subtopicos": [
+            {
+              "id": "direito-tributario::t::f2b595ab::s::43028d2f",
+              "texto": "Tributos: conceito e espécies; Impostos; Taxas",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::f2b595ab::s::0b526e40",
+              "texto": "Contribuição de Melhoria; Imunidades",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::f2b595ab::s::8a11b5aa",
+              "texto": "Impostos da União",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::f2b595ab::s::4902e79a",
+              "texto": "Impostos dos estados e do Distrito Federal",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::f2b595ab::s::66e9eddf",
+              "texto": "Impostos dos municípios",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-tributario::t::ae407c18",
+          "numero": "4",
+          "titulo": "Repartição das receitas tributárias",
+          "subtopicos": [
+            {
+              "id": "direito-tributario::t::ae407c18::s::2fd02b89",
+              "texto": "Repartição das receitas tributárias",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-tributario::t::555e5b7f",
+          "numero": "5",
+          "titulo": "Código Tributário Nacional",
+          "subtopicos": [
+            {
+              "id": "direito-tributario::t::555e5b7f::s::5105f7ad",
+              "texto": "Código Tributário Nacional",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::555e5b7f::s::71d76546",
+              "texto": "Competência tributária e suas limitações",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::555e5b7f::s::06c0fd53",
+              "texto": "Normas gerais de direito tributário",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::555e5b7f::s::836901de",
+              "texto": "Norma tributária: espécies, vigência e aplicação, interpretação e integração, natureza",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-tributario::t::49ac9d61",
+          "numero": "6",
+          "titulo": "Obrigação tributária: conceito, espécies, fato gerador (hipótese de incidência), sujeitos ativo e passivo, solidariedade, capacidade tributária, domicílio tributário",
+          "subtopicos": [
+            {
+              "id": "direito-tributario::t::49ac9d61::s::de0d6528",
+              "texto": "Obrigação tributária: conceito, espécies, fato gerador (hipótese de incidência), sujeitos ativo e passivo, solidariedade, capacidade tributária, domicílio tributário",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-tributario::t::79ac47c3",
+          "numero": "7",
+          "titulo": "Responsabilidade tributária",
+          "subtopicos": [
+            {
+              "id": "direito-tributario::t::79ac47c3::s::0352ae80",
+              "texto": "Responsabilidade tributária",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::79ac47c3::s::5100ea3d",
+              "texto": "Responsabilidade dos Sucessores",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::79ac47c3::s::135274df",
+              "texto": "Solidariedade e sucessão",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::79ac47c3::s::f6d4ee73",
+              "texto": "Responsabilidade pessoal e de terceiros",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::79ac47c3::s::a130ca00",
+              "texto": "Responsabilidade por infrações",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::79ac47c3::s::cc189f7c",
+              "texto": "Responsabilidade supletiva",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-tributario::t::94c92c08",
+          "numero": "8",
+          "titulo": "Crédito tributário: conceito, natureza, lançamento e suas modalidades, revisão, suspensão, extinção e exclusão, prescrição e decadência, repetição do indébito",
+          "subtopicos": [
+            {
+              "id": "direito-tributario::t::94c92c08::s::496ccdda",
+              "texto": "Crédito tributário: conceito, natureza, lançamento e suas modalidades, revisão, suspensão, extinção e exclusão, prescrição e decadência, repetição do indébito",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-tributario::t::d528e341",
+          "numero": "9",
+          "titulo": "Garantias e privilégios do crédito tributário",
+          "subtopicos": [
+            {
+              "id": "direito-tributario::t::d528e341::s::3ccd6fad",
+              "texto": "Garantias e privilégios do crédito tributário",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-tributario::t::d06f2400",
+          "numero": "10",
+          "titulo": "Administração Tributária",
+          "subtopicos": [
+            {
+              "id": "direito-tributario::t::d06f2400::s::70dcbf50",
+              "texto": "Administração Tributária",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::d06f2400::s::e36b83d5",
+              "texto": "Fiscalização",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::d06f2400::s::4b36f762",
+              "texto": "Sigilo Fiscal",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::d06f2400::s::eaa9ae97",
+              "texto": "Dívida Ativa",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "direito-tributario::t::d06f2400::s::95a72f4e",
+              "texto": "Certidões Negativas",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-tributario::t::a89f906c",
+          "numero": "11",
+          "titulo": "Lei Complementar nº 118, de 2005",
+          "subtopicos": [
+            {
+              "id": "direito-tributario::t::a89f906c::s::2884c14e",
+              "texto": "Lei Complementar nº 118, de 2005",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "direito-tributario::t::84590232",
+          "numero": "12",
+          "titulo": "Crimes contra a ordem tributária (Lei nº 8.137/1990 e suas alterações)",
+          "subtopicos": [
+            {
+              "id": "direito-tributario::t::84590232::s::e751c29a",
+              "texto": "Crimes contra a ordem tributária (Lei nº 8.137/1990 e suas alterações)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "estatistica-e-probabilidade",
+      "nome": "Estatística e Probabilidade",
+      "peso": 1.0,
+      "topicos": [
+        {
+          "id": "estatistica-e-probabilidade::t::cd8755b8",
+          "numero": "1",
+          "titulo": "Estatística descritiva",
+          "subtopicos": [
+            {
+              "id": "estatistica-e-probabilidade::t::cd8755b8::s::c66ff8eb",
+              "texto": "Estatística descritiva",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "estatistica-e-probabilidade::t::95747afb",
+          "numero": "2",
+          "titulo": "Análise exploratória de dados",
+          "subtopicos": [
+            {
+              "id": "estatistica-e-probabilidade::t::95747afb::s::1d952507",
+              "texto": "Análise exploratória de dados",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "estatistica-e-probabilidade::t::95747afb::s::928c1340",
+              "texto": "2.1 Gráficos, diagramas, tabelas, medidas descritivas (posição, dispersão, assimetria e curtose)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "estatistica-e-probabilidade::t::d0bc1e32",
+          "numero": "3",
+          "titulo": "Probabilidade",
+          "subtopicos": [
+            {
+              "id": "estatistica-e-probabilidade::t::d0bc1e32::s::acfa6a69",
+              "texto": "Probabilidade",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "estatistica-e-probabilidade::t::d0bc1e32::s::f49e0ffb",
+              "texto": "3.1 Definições básicas e axiomas",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "estatistica-e-probabilidade::t::d0bc1e32::s::58fb3c20",
+              "texto": "3.2 Probabilidade condicional e independência",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "estatistica-e-probabilidade::t::ace696d6",
+          "numero": "4",
+          "titulo": "Amostragem; 4.1 Amostragem aleatória simples, estratificada, sistemática e por conglomerados",
+          "subtopicos": [
+            {
+              "id": "estatistica-e-probabilidade::t::ace696d6::s::9a84ee28",
+              "texto": "Amostragem; 4.1 Amostragem aleatória simples, estratificada, sistemática e por conglomerados",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "contabilidade-publica",
+      "nome": "Contabilidade Pública",
+      "peso": 1.0,
+      "topicos": [
+        {
+          "id": "contabilidade-publica::t::9b3ec542",
+          "numero": "1",
+          "titulo": "Conceituação, objeto e campo de aplicação",
+          "subtopicos": [
+            {
+              "id": "contabilidade-publica::t::9b3ec542::s::5b097634",
+              "texto": "Conceituação, objeto e campo de aplicação",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-publica::t::f31da7f7",
+          "numero": "2",
+          "titulo": "Patrimônio público; 2.1 Ativo; 2.2 Passivo",
+          "subtopicos": [
+            {
+              "id": "contabilidade-publica::t::f31da7f7::s::c2bef932",
+              "texto": "Patrimônio público; 2.1 Ativo; 2.2 Passivo",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::f31da7f7::s::a8a5a8eb",
+              "texto": "2.3 Saldo patrimonial",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-publica::t::dffe4c8c",
+          "numero": "3",
+          "titulo": "Variações patrimoniais",
+          "subtopicos": [
+            {
+              "id": "contabilidade-publica::t::dffe4c8c::s::244adc9d",
+              "texto": "Variações patrimoniais",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::dffe4c8c::s::be6e73a2",
+              "texto": "3.1 Qualitativas",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::dffe4c8c::s::9d6cd51d",
+              "texto": "3.2 Quantitativas",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::dffe4c8c::s::6a3f902e",
+              "texto": "3.2.1 Receita e despesa sob o enfoque patrimonial",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::dffe4c8c::s::0695540f",
+              "texto": "3.3 Realização da variação patrimonial",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::dffe4c8c::s::3151dca7",
+              "texto": "3.4 Resultado patrimonial",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-publica::t::b276a758",
+          "numero": "4",
+          "titulo": "Mensuração de ativos",
+          "subtopicos": [
+            {
+              "id": "contabilidade-publica::t::b276a758::s::45ae8e21",
+              "texto": "Mensuração de ativos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::b276a758::s::753170e5",
+              "texto": "4.1 Ativo imobilizado",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::b276a758::s::8249e26d",
+              "texto": "4.2 Ativo intangível",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::b276a758::s::257f7286",
+              "texto": "4.3 Reavaliação e redução ao valor recuperável",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::b276a758::s::27ba56c1",
+              "texto": "4.4 Depreciação, amortização e exaustão",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-publica::t::0bc6ecdc",
+          "numero": "5",
+          "titulo": "Mensuração de passivos",
+          "subtopicos": [
+            {
+              "id": "contabilidade-publica::t::0bc6ecdc::s::74e01ff4",
+              "texto": "Mensuração de passivos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::0bc6ecdc::s::e0511bf7",
+              "texto": "5.1 Provisões",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::0bc6ecdc::s::2faeb073",
+              "texto": "5.2 Passivos contingentes",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-publica::t::b909fa89",
+          "numero": "6",
+          "titulo": "Tratamento contábil aplicável aos impostos e contribuições",
+          "subtopicos": [
+            {
+              "id": "contabilidade-publica::t::b909fa89::s::7c1931d7",
+              "texto": "Tratamento contábil aplicável aos impostos e contribuições",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-publica::t::f74dc1b3",
+          "numero": "7",
+          "titulo": "Sistema de custos",
+          "subtopicos": [
+            {
+              "id": "contabilidade-publica::t::f74dc1b3::s::2eb91b99",
+              "texto": "Sistema de custos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::f74dc1b3::s::de2c5c8b",
+              "texto": "7.1 Aspectos legais do sistema de custos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::f74dc1b3::s::329ae850",
+              "texto": "7.2 Ambiente da informação de custos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::f74dc1b3::s::c5122098",
+              "texto": "7.3 Características da informação de custos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::f74dc1b3::s::4e67c649",
+              "texto": "7.4 Terminologia de custos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-publica::t::f1793340",
+          "numero": "8",
+          "titulo": "Plano de Contas Aplicado ao Setor Público - PCASP",
+          "subtopicos": [
+            {
+              "id": "contabilidade-publica::t::f1793340::s::6ed62a79",
+              "texto": "Plano de Contas Aplicado ao Setor Público - PCASP",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-publica::t::f1786289",
+          "numero": "9",
+          "titulo": "Demonstrações Contábeis Aplicadas ao Setor Público - DCASP",
+          "subtopicos": [
+            {
+              "id": "contabilidade-publica::t::f1786289::s::53c35a03",
+              "texto": "Demonstrações Contábeis Aplicadas ao Setor Público - DCASP",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::f1786289::s::e4d3ef3f",
+              "texto": "9.1 Balanço orçamentário",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::f1786289::s::06a53ba3",
+              "texto": "9.2 Balanço financeiro",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::f1786289::s::862eac02",
+              "texto": "9.3 Demonstração das variações patrimoniais",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::f1786289::s::568b9f27",
+              "texto": "9.4 Balanço patrimonial",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::f1786289::s::e3f02549",
+              "texto": "9.5 Demonstração dos fluxos de caixa",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::f1786289::s::a99f1a6a",
+              "texto": "9.6 Demonstração das mutações do patrimônio líquido",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::f1786289::s::f1d577c5",
+              "texto": "9.7 Notas explicativas às demonstrações contábeis",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "contabilidade-publica::t::f1786289::s::23245056",
+              "texto": "9.8 Consolidação das demonstrações contábeis",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-publica::t::4204422c",
+          "numero": "10",
+          "titulo": "Transações no setor público",
+          "subtopicos": [
+            {
+              "id": "contabilidade-publica::t::4204422c::s::fb406d2f",
+              "texto": "Transações no setor público",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-publica::t::95fe5baf",
+          "numero": "11",
+          "titulo": "Normas Brasileiras de Contabilidade Aplicadas ao Setor Público - NBC TSP",
+          "subtopicos": [
+            {
+              "id": "contabilidade-publica::t::95fe5baf::s::cb16162b",
+              "texto": "Normas Brasileiras de Contabilidade Aplicadas ao Setor Público - NBC TSP",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-publica::t::6b440e28",
+          "numero": "12",
+          "titulo": "Manual de Contabilidade Aplicada ao Setor Público - MCASP, 11ª edição",
+          "subtopicos": [
+            {
+              "id": "contabilidade-publica::t::6b440e28::s::3e77528e",
+              "texto": "Manual de Contabilidade Aplicada ao Setor Público - MCASP, 11ª edição",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "contabilidade-publica::t::d8104329",
+          "numero": "13",
+          "titulo": "Regime contábil",
+          "subtopicos": [
+            {
+              "id": "contabilidade-publica::t::d8104329::s::776dac7f",
+              "texto": "Regime contábil",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economia",
+      "nome": "Economia",
+      "peso": 1.0,
+      "topicos": [
+        {
+          "id": "economia::t::5b67fce8",
+          "numero": "1",
+          "titulo": "Introdução aos problemas econômicos: escassez e escolha",
+          "subtopicos": [
+            {
+              "id": "economia::t::5b67fce8::s::6bd35ccd",
+              "texto": "Introdução aos problemas econômicos: escassez e escolha",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "economia::t::5b67fce8::s::c3864472",
+              "texto": "Curva de possibilidades de produção",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "economia::t::5b67fce8::s::66e6e704",
+              "texto": "Fatores de produção",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "economia::t::5b67fce8::s::0b5d49f2",
+              "texto": "Produtividade e remuneração dos fatores",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "economia::t::5b67fce8::s::87199f9d",
+              "texto": "Livre mercado",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "economia::t::5b67fce8::s::88a0ccdd",
+              "texto": "Papel do governo em uma economia em desenvolvimento",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "economia::t::022074eb",
+          "numero": "2",
+          "titulo": "Microeconomia: oferta e demanda",
+          "subtopicos": [
+            {
+              "id": "economia::t::022074eb::s::e10b52c9",
+              "texto": "Microeconomia: oferta e demanda",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "economia::t::022074eb::s::4a830033",
+              "texto": "Elasticidades",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "economia::t::022074eb::s::509cd691",
+              "texto": "Teoria da produção; Custos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "economia::t::022074eb::s::f12c0ce7",
+              "texto": "Concorrência perfeita; Monopólio",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "economia::t::022074eb::s::116babf7",
+              "texto": "Eficiência econômica",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "economia::t::022074eb::s::f530a9ff",
+              "texto": "Bens públicos e falhas de mercado",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "economia::t::6334a753",
+          "numero": "3",
+          "titulo": "Macroeconomia: contas nacionais",
+          "subtopicos": [
+            {
+              "id": "economia::t::6334a753::s::60fca201",
+              "texto": "Macroeconomia: contas nacionais",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "economia::t::6334a753::s::afe7452a",
+              "texto": "Produto e renda",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "economia::t::6334a753::s::9073348b",
+              "texto": "Agregados macroeconômicos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "economia::t::6334a753::s::096e7261",
+              "texto": "Consumo, poupança e investimento",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "economia::t::6334a753::s::d7420237",
+              "texto": "Multiplicador",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "economia::t::6334a753::s::e7433691",
+              "texto": "Setor público",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "economia::t::6334a753::s::58288be1",
+              "texto": "Políticas de estabilização",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "financas-publicas",
+      "nome": "Finanças Públicas",
+      "peso": 1.0,
+      "topicos": [
+        {
+          "id": "financas-publicas::t::6d2f9fe9",
+          "numero": "1",
+          "titulo": "Finanças públicas: conceitos, objetivos, metas e abrangência",
+          "subtopicos": [
+            {
+              "id": "financas-publicas::t::6d2f9fe9::s::4b212404",
+              "texto": "Finanças públicas: conceitos, objetivos, metas e abrangência",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::6d2f9fe9::s::bbeab5a2",
+              "texto": "1.1 Funções do Estado e função de bem-estar",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::6d2f9fe9::s::e5dcde50",
+              "texto": "1.2 Políticas alocativas, distributivas e de estabilização",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::6d2f9fe9::s::811dc462",
+              "texto": "1.3 Financiamento dos gastos públicos, tributação e equidade",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::6d2f9fe9::s::ee97f187",
+              "texto": "1.4 Tipos de tributos: progressividade, regressividade e neutralidade",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "financas-publicas::t::53dadb87",
+          "numero": "2",
+          "titulo": "Política econômica e fiscal",
+          "subtopicos": [
+            {
+              "id": "financas-publicas::t::53dadb87::s::5323f91d",
+              "texto": "Política econômica e fiscal",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::53dadb87::s::68e2b99e",
+              "texto": "2.1 Instrumentos das políticas fiscal, regulatória e monetária",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::53dadb87::s::181e73b1",
+              "texto": "2.2 Equilíbrio orçamentário, estabilização da moeda, pleno emprego, desenvolvimento econômico e redistribuição da renda",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::53dadb87::s::613531aa",
+              "texto": "2.3 Déficit público: conceito, mensuração, financiamento e sustentabilidade da política fiscal",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::53dadb87::s::c8080dbd",
+              "texto": "2.4 Crédito público como fonte de financiamento e seus limites",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::53dadb87::s::07dc6f52",
+              "texto": "2.5 Dívida pública",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::53dadb87::s::8255a8d3",
+              "texto": "2.6 Reformas administrativa e previdenciária e seus impactos fiscais",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "financas-publicas::t::9cc8e387",
+          "numero": "3",
+          "titulo": "Orçamento público",
+          "subtopicos": [
+            {
+              "id": "financas-publicas::t::9cc8e387::s::872d1bc2",
+              "texto": "Orçamento público",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::9cc8e387::s::e51fda72",
+              "texto": "3.1 Conceito, técnicas e princípios orçamentários",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::9cc8e387::s::f1f25a3c",
+              "texto": "3.2 Ciclo e processo orçamentários",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "financas-publicas::t::b4fdc6d3",
+          "numero": "4",
+          "titulo": "Orçamento público no Brasil",
+          "subtopicos": [
+            {
+              "id": "financas-publicas::t::b4fdc6d3::s::a729152d",
+              "texto": "Orçamento público no Brasil",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::b4fdc6d3::s::08d5017a",
+              "texto": "4.1 Sistema de planejamento e orçamento",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::b4fdc6d3::s::723095bb",
+              "texto": "4.2 Plano plurianual, lei de diretrizes orçamentárias e lei orçamentária anual",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::b4fdc6d3::s::2478037e",
+              "texto": "4.3 Sistema e processo de orçamentação",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::b4fdc6d3::s::a427c225",
+              "texto": "4.4 Classificações orçamentárias e estrutura programática",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::b4fdc6d3::s::94dafa14",
+              "texto": "4.5 Créditos ordinários e adicionais",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "financas-publicas::t::66de29af",
+          "numero": "5",
+          "titulo": "Programação e execução orçamentária e financeira",
+          "subtopicos": [
+            {
+              "id": "financas-publicas::t::66de29af::s::8fa7cb84",
+              "texto": "Programação e execução orçamentária e financeira",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::66de29af::s::b6f53873",
+              "texto": "5.1 Descentralização orçamentária e financeira",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::66de29af::s::a2f144de",
+              "texto": "5.2 Acompanhamento e controle da execução",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::66de29af::s::b7b344f9",
+              "texto": "5.3 Sistemas de informações",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::66de29af::s::7e1c7815",
+              "texto": "5.4 Alterações orçamentárias e créditos adicionais",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "financas-publicas::t::413e4880",
+          "numero": "6",
+          "titulo": "Receita pública: conceito, classificações, estágios, fontes e dívida ativa",
+          "subtopicos": [
+            {
+              "id": "financas-publicas::t::413e4880::s::b6f0e556",
+              "texto": "Receita pública: conceito, classificações, estágios, fontes e dívida ativa",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "financas-publicas::t::cae9ab6e",
+          "numero": "7",
+          "titulo": "Despesa pública: conceito, classificações e estágios",
+          "subtopicos": [
+            {
+              "id": "financas-publicas::t::cae9ab6e::s::6aca3843",
+              "texto": "Despesa pública: conceito, classificações e estágios",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::cae9ab6e::s::a2a3381c",
+              "texto": "7.1 Restos a pagar",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::cae9ab6e::s::20854e60",
+              "texto": "7.2 Despesas de exercícios anteriores",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::cae9ab6e::s::3f3f5dff",
+              "texto": "7.3 Dívidas flutuante e fundada",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::cae9ab6e::s::99b392e9",
+              "texto": "7.4 Suprimento de fundos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::cae9ab6e::s::1d9cf8ed",
+              "texto": "7.5 Ordenador de despesa: conceito, ordenador primário e delegação de competência",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "financas-publicas::t::da9b1e3e",
+          "numero": "8",
+          "titulo": "Responsabilidade e controle fiscal",
+          "subtopicos": [
+            {
+              "id": "financas-publicas::t::da9b1e3e::s::2bd165b7",
+              "texto": "Responsabilidade e controle fiscal",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::da9b1e3e::s::bcf595b7",
+              "texto": "8.1 Lei Complementar nº 101/2000 e suas alterações (Lei de Responsabilidade Fiscal)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::da9b1e3e::s::716993ff",
+              "texto": "8.2 Lei nº 4.320/1964 e suas alterações",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::da9b1e3e::s::fb5d65c7",
+              "texto": "8.3 SIAFI (Sistema Integrado de Administração Financeira)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "financas-publicas::t::8129ef5e",
+          "numero": "9",
+          "titulo": "Fluxo de caixa",
+          "subtopicos": [
+            {
+              "id": "financas-publicas::t::8129ef5e::s::7d948ac4",
+              "texto": "Fluxo de caixa",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::8129ef5e::s::89ba3cc5",
+              "texto": "9.1 Elaboração, apresentação, projeção e análise",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::8129ef5e::s::19c50407",
+              "texto": "9.2 Fluxos de caixa descontados",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::8129ef5e::s::d9f5692c",
+              "texto": "9.3 Valor presente líquido (VPL) e taxa interna de retorno (TIR)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::8129ef5e::s::dfa82c16",
+              "texto": "9.4 Valores antecipados e postecipados",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::8129ef5e::s::a11dc342",
+              "texto": "Valor presente e valor futuro",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::8129ef5e::s::eb84b5c6",
+              "texto": "Taxa de juros e prazo",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "financas-publicas::t::dfedb16d",
+          "numero": "10",
+          "titulo": "Moeda, crédito e Sistema Financeiro Nacional",
+          "subtopicos": [
+            {
+              "id": "financas-publicas::t::dfedb16d::s::7cd21513",
+              "texto": "Moeda, crédito e Sistema Financeiro Nacional",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::dfedb16d::s::fcdff432",
+              "texto": "10.1 Conceitos e funções da moeda",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::dfedb16d::s::e29ac2b8",
+              "texto": "10.2 Base monetária, meios de pagamento e multiplicador monetário",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::dfedb16d::s::3613d8cc",
+              "texto": "10.3 Banco Central e instrumentos de controle monetário",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::dfedb16d::s::205cc11f",
+              "texto": "10.4 Estrutura e instituições do Sistema Financeiro Nacional",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "financas-publicas::t::e1536f1d",
+          "numero": "11",
+          "titulo": "Setor externo: balanço de pagamentos, equilíbrio e desequilíbrio, taxas de câmbio e regimes cambiais fixos e flexíveis",
+          "subtopicos": [
+            {
+              "id": "financas-publicas::t::e1536f1d::s::b5e4888c",
+              "texto": "Setor externo: balanço de pagamentos, equilíbrio e desequilíbrio, taxas de câmbio e regimes cambiais fixos e flexíveis",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "financas-publicas::t::fc7d230b",
+          "numero": "12",
+          "titulo": "Mercado financeiro brasileiro",
+          "subtopicos": [
+            {
+              "id": "financas-publicas::t::fc7d230b::s::3e549874",
+              "texto": "Mercado financeiro brasileiro",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::fc7d230b::s::7e83d02f",
+              "texto": "12.1 Dinâmica e instituições",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::fc7d230b::s::747edee1",
+              "texto": "12.2 Mercados primário e secundário e bolsas de valores",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "financas-publicas::t::fc7d230b::s::14c60463",
+              "texto": "12.3 Operações à vista, contratos a termo, contratos futuros e mercado de opções",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "legislacao-tributaria-estadual",
+      "nome": "Legislação Tributária Estadual",
+      "peso": 1.0,
+      "topicos": [
+        {
+          "id": "legislacao-tributaria-estadual::t::e124e0b6",
+          "numero": "1",
+          "titulo": "Lei Estadual nº 5.900/1996 (ICMS) e suas alterações",
+          "subtopicos": [
+            {
+              "id": "legislacao-tributaria-estadual::t::e124e0b6::s::79297e06",
+              "texto": "Lei Estadual nº 5.900/1996 (ICMS) e suas alterações",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "legislacao-tributaria-estadual::t::5de86ef5",
+          "numero": "2",
+          "titulo": "Lei Estadual nº 6.555/2004 (IPVA) e suas alterações",
+          "subtopicos": [
+            {
+              "id": "legislacao-tributaria-estadual::t::5de86ef5::s::15cffedb",
+              "texto": "Lei Estadual nº 6.555/2004 (IPVA) e suas alterações",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "legislacao-tributaria-estadual::t::6bf0140c",
+          "numero": "3",
+          "titulo": "Lei Estadual nº 5.077/1989 (ITCD) e suas alterações",
+          "subtopicos": [
+            {
+              "id": "legislacao-tributaria-estadual::t::6bf0140c::s::a865218b",
+              "texto": "Lei Estadual nº 5.077/1989 (ITCD) e suas alterações",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "legislacao-tributaria-estadual::t::b7b98e53",
+          "numero": "4",
+          "titulo": "Lei Estadual nº 6.771/2006 (Processo Administrativo Tributário) e suas alterações",
+          "subtopicos": [
+            {
+              "id": "legislacao-tributaria-estadual::t::b7b98e53::s::550d6a8a",
+              "texto": "Lei Estadual nº 6.771/2006 (Processo Administrativo Tributário) e suas alterações",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "legislacao-tributaria-estadual::t::8120e365",
+          "numero": "5",
+          "titulo": "Lei Estadual nº 8.085/2018 (Programa Contribuinte Arretado) e suas alterações",
+          "subtopicos": [
+            {
+              "id": "legislacao-tributaria-estadual::t::8120e365::s::c4efba13",
+              "texto": "Lei Estadual nº 8.085/2018 (Programa Contribuinte Arretado) e suas alterações",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inteligencia-artificial",
+      "nome": "Inteligência Artificial",
+      "peso": 1.0,
+      "topicos": [
+        {
+          "id": "inteligencia-artificial::t::e4469c39",
+          "numero": "1",
+          "titulo": "Fundamentos de inteligência artificial",
+          "subtopicos": [
+            {
+              "id": "inteligencia-artificial::t::e4469c39::s::b69edc81",
+              "texto": "Fundamentos de inteligência artificial",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "inteligencia-artificial::t::e4469c39::s::ce20fe6d",
+              "texto": "1.1 Relações entre inteligência artificial, aprendizado de máquina e deep learning",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "inteligencia-artificial::t::d2508ade",
+          "numero": "2",
+          "titulo": "Redes neurais artificiais",
+          "subtopicos": [
+            {
+              "id": "inteligencia-artificial::t::d2508ade::s::d79a1539",
+              "texto": "Redes neurais artificiais",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "inteligencia-artificial::t::6ba78d64",
+          "numero": "3",
+          "titulo": "Deep learning",
+          "subtopicos": [
+            {
+              "id": "inteligencia-artificial::t::6ba78d64::s::1717f514",
+              "texto": "Deep learning",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "inteligencia-artificial::t::1ce9a443",
+          "numero": "4",
+          "titulo": "Processamento de linguagem natural",
+          "subtopicos": [
+            {
+              "id": "inteligencia-artificial::t::1ce9a443::s::d4b78b4b",
+              "texto": "Processamento de linguagem natural",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "inteligencia-artificial::t::1ce9a443::s::46c22a05",
+              "texto": "4.1 Mineração de texto",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "inteligencia-artificial::t::dc9a9178",
+          "numero": "5",
+          "titulo": "Visão computacional",
+          "subtopicos": [
+            {
+              "id": "inteligencia-artificial::t::dc9a9178::s::689b7849",
+              "texto": "Visão computacional",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "inteligencia-artificial::t::f425ad2e",
+          "numero": "6",
+          "titulo": "Inteligência artificial generativa",
+          "subtopicos": [
+            {
+              "id": "inteligencia-artificial::t::f425ad2e::s::9e0681bb",
+              "texto": "Inteligência artificial generativa",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "inteligencia-artificial::t::f425ad2e::s::5e651cf0",
+              "texto": "6.1 Modelos de linguagem de grande escala - LLM",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "inteligencia-artificial::t::f425ad2e::s::c3225ea7",
+              "texto": "6.2 Geração aumentada por recuperação - RAG",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "desenvolvimento-de-sistemas",
+      "nome": "Desenvolvimento de Sistemas",
+      "peso": 1.0,
+      "topicos": [
+        {
+          "id": "desenvolvimento-de-sistemas::t::5bba4e5c",
+          "numero": "1",
+          "titulo": "Modelagem de processos de negócio",
+          "subtopicos": [
+            {
+              "id": "desenvolvimento-de-sistemas::t::5bba4e5c::s::fdca704e",
+              "texto": "Modelagem de processos de negócio",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "desenvolvimento-de-sistemas::t::5bba4e5c::s::7446ee12",
+              "texto": "1.1 Conceitos básicos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "desenvolvimento-de-sistemas::t::5bba4e5c::s::4928e611",
+              "texto": "1.2 Identificação e delimitação de processos de negócio",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "desenvolvimento-de-sistemas::t::5bba4e5c::s::71e6e8ca",
+              "texto": "1.3 Técnicas de mapeamento de processos (modelos AS-IS e TO-BE)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "desenvolvimento-de-sistemas::t::635655e4",
+          "numero": "2",
+          "titulo": "Metodologias ágeis de desenvolvimento de software: XP, Scrum e Kanban",
+          "subtopicos": [
+            {
+              "id": "desenvolvimento-de-sistemas::t::635655e4::s::418ac88e",
+              "texto": "Metodologias ágeis de desenvolvimento de software: XP, Scrum e Kanban",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "desenvolvimento-de-sistemas::t::046852e6",
+          "numero": "3",
+          "titulo": "Integração contínua e entrega contínua",
+          "subtopicos": [
+            {
+              "id": "desenvolvimento-de-sistemas::t::046852e6::s::ec12a488",
+              "texto": "Integração contínua e entrega contínua",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "desenvolvimento-de-sistemas::t::4b24393f",
+          "numero": "4",
+          "titulo": "Arquitetura de software",
+          "subtopicos": [
+            {
+              "id": "desenvolvimento-de-sistemas::t::4b24393f::s::2992c693",
+              "texto": "Arquitetura de software",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "desenvolvimento-de-sistemas::t::4b24393f::s::40d7bb09",
+              "texto": "4.1 Arquitetura de aplicações web em modelo de três camadas",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "desenvolvimento-de-sistemas::t::4b24393f::s::811c0423",
+              "texto": "4.2 Domain-driven design (DDD)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "desenvolvimento-de-sistemas::t::4b24393f::s::fd566b11",
+              "texto": "4.3 Arquitetura orientada a serviços (SOA)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "desenvolvimento-de-sistemas::t::4b24393f::s::83409db8",
+              "texto": "4.4 Arquitetura de microsserviços",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "desenvolvimento-de-sistemas::t::dd1e2206",
+          "numero": "5",
+          "titulo": "Soluções de integração entre sistemas",
+          "subtopicos": [
+            {
+              "id": "desenvolvimento-de-sistemas::t::dd1e2206::s::0060d393",
+              "texto": "Soluções de integração entre sistemas",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "desenvolvimento-de-sistemas::t::dd1e2206::s::e1435bd8",
+              "texto": "5.1 API REST",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "desenvolvimento-de-sistemas::t::b4a80abf",
+          "numero": "6",
+          "titulo": "Testes de software: testes unitários, testes de integração e TDD",
+          "subtopicos": [
+            {
+              "id": "desenvolvimento-de-sistemas::t::b4a80abf::s::1ccc46d4",
+              "texto": "Testes de software: testes unitários, testes de integração e TDD",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "desenvolvimento-de-sistemas::t::56df43ac",
+          "numero": "7",
+          "titulo": "Desenvolvimento",
+          "subtopicos": [
+            {
+              "id": "desenvolvimento-de-sistemas::t::56df43ac::s::7ac104cd",
+              "texto": "Desenvolvimento",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "desenvolvimento-de-sistemas::t::56df43ac::s::1ee90040",
+              "texto": "7.1 Linguagem Java",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "desenvolvimento-de-sistemas::t::56df43ac::s::f8bdbb2e",
+              "texto": "7.2 Linguagem JavaScript",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "desenvolvimento-de-sistemas::t::e8a9447c",
+          "numero": "8",
+          "titulo": "Ferramentas de versionamento Git",
+          "subtopicos": [
+            {
+              "id": "desenvolvimento-de-sistemas::t::e8a9447c::s::94fe1191",
+              "texto": "Ferramentas de versionamento Git",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "desenvolvimento-de-sistemas::t::361b520b",
+          "numero": "9",
+          "titulo": "Segurança no desenvolvimento",
+          "subtopicos": [
+            {
+              "id": "desenvolvimento-de-sistemas::t::361b520b::s::2abdffcf",
+              "texto": "Segurança no desenvolvimento",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "desenvolvimento-de-sistemas::t::361b520b::s::2324d679",
+              "texto": "9.1 Práticas de programação segura e revisão de código",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "desenvolvimento-de-sistemas::t::361b520b::s::91e92a9d",
+              "texto": "9.2 Melhores práticas de codificação segura OWASP",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "desenvolvimento-de-sistemas::t::7bec2b7f",
+          "numero": "10",
+          "titulo": "Conceitos avançados em engenharia e arquitetura de software",
+          "subtopicos": [
+            {
+              "id": "desenvolvimento-de-sistemas::t::7bec2b7f::s::8ca4af87",
+              "texto": "Conceitos avançados em engenharia e arquitetura de software",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "desenvolvimento-de-sistemas::t::7bec2b7f::s::9ae6fd7f",
+              "texto": "10.1 Arquitetura orientada a eventos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "desenvolvimento-de-sistemas::t::7bec2b7f::s::8e5980e6",
+              "texto": "10.2 Mensageria",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "desenvolvimento-de-sistemas::t::7bec2b7f::s::758f78b5",
+              "texto": "10.3 Transações distribuídas e teorema CAP. 10.4 Gerenciamento de identidades com OAuth 2.0 e JWT",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "desenvolvimento-de-sistemas::t::7bec2b7f::s::653c5b4a",
+              "texto": "10.5 API gateways",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "infraestrutura-de-tic-e-seguranca-da-informacao",
+      "nome": "Infraestrutura de TIC e Segurança da Informação",
+      "peso": 1.0,
+      "topicos": [
+        {
+          "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::d9213dcb",
+          "numero": "1",
+          "titulo": "Infraestrutura em nuvem",
+          "subtopicos": [
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::d9213dcb::s::744d5c52",
+              "texto": "Infraestrutura em nuvem",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::d9213dcb::s::0b0439dd",
+              "texto": "1.1 Nuvens pública e privada",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::d9213dcb::s::d1eb78d0",
+              "texto": "IaaS, PaaS, SaaS e workloads",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::d9213dcb::s::71129e46",
+              "texto": "1.2 Estratégias de migração de aplicações, computação serverless e modelo de responsabilidade compartilhada",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::d9213dcb::s::258e7553",
+              "texto": "1.3 Contêineres e orquestração: Docker, Podman e Kubernetes",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::8f82c222",
+          "numero": "2",
+          "titulo": "DevOps e DevSecOps: conceitos, práticas e ferramentas",
+          "subtopicos": [
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::8f82c222::s::2d7398a8",
+              "texto": "DevOps e DevSecOps: conceitos, práticas e ferramentas",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::860a0f8e",
+          "numero": "3",
+          "titulo": "Gestão de serviços",
+          "subtopicos": [
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::860a0f8e::s::e782495e",
+              "texto": "Gestão de serviços",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::860a0f8e::s::e83c42bc",
+              "texto": "3.1 Conceitos e práticas",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::860a0f8e::s::8f49d5e9",
+              "texto": "3.2 ITIL v4: controle de mudanças",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::860a0f8e::s::3eca7950",
+              "texto": "Gerenciamento de liberação, incidentes e problemas",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::860a0f8e::s::0c7d391a",
+              "texto": "Service desk",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::23203e50",
+          "numero": "4",
+          "titulo": "Forense computacional",
+          "subtopicos": [
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::23203e50::s::0a3f08e8",
+              "texto": "Forense computacional",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::23203e50::s::0bfb18eb",
+              "texto": "4.1 Preservação de evidências, hash de arquivos e cadeia de custódia",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::23203e50::s::26d28030",
+              "texto": "4.2 Coleta, espelhamento e imagem de discos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::23203e50::s::73c5a3d4",
+              "texto": "4.3 Técnicas antiforense: criptografia e esteganografia",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::23203e50::s::9c4bf663",
+              "texto": "4.4 Sanitização de discos e wipe",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::2e4d091e",
+          "numero": "5",
+          "titulo": "Redes de computadores",
+          "subtopicos": [
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::2e4d091e::s::f7b5f047",
+              "texto": "Redes de computadores",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::2e4d091e::s::2a988feb",
+              "texto": "5.1 Firewall e web application firewall (WAF)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::2e4d091e::s::36d57f22",
+              "texto": "5.2 Proxy e proxy reverso",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::2e4d091e::s::e2a77bfb",
+              "texto": "5.3 DNS",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::2e4d091e::s::6d72ebb9",
+              "texto": "5.4 Redes MPLS e SD-WAN",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::2e4d091e::s::3a873f42",
+              "texto": "5.5 Segmentação e microssegmentação de redes",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::dd20da32",
+          "numero": "6",
+          "titulo": "Segurança da informação",
+          "subtopicos": [
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::dd20da32::s::2d31f64a",
+              "texto": "Segurança da informação",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::dd20da32::s::f493c518",
+              "texto": "6.1 Gestão de segurança da informação e continuidade do negócio",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::dd20da32::s::3f9658ff",
+              "texto": "6.2 Gestão de identidade e acesso",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::dd20da32::s::c21e0242",
+              "texto": "6.3 Gestão de riscos de segurança da informação",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::dd20da32::s::b172e7f0",
+              "texto": "6.4 Arquitetura zero trust",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::dd20da32::s::b8fa801b",
+              "texto": "6.5 Identificação, análise e correção de vulnerabilidades",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::dd20da32::s::1d7d19e5",
+              "texto": "6.6 Ataques em redes e aplicações corporativas e medidas de proteção",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::dd20da32::s::86683e28",
+              "texto": "6.7 Segurança de endpoints",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::dd20da32::s::94d11d1f",
+              "texto": "6.8 Avaliação e testes de segurança em infraestrutura, redes e aplicações",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::dd20da32::s::9093e44e",
+              "texto": "6.9 Infraestrutura de chaves públicas e certificação digital",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "infraestrutura-de-tic-e-seguranca-da-informacao::t::dd20da32::s::a7f9a694",
+              "texto": "6.10 Prevenção e tratamento de incidentes de segurança da informação",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reforma-tributaria",
+      "nome": "Reforma Tributária",
+      "peso": 1.0,
+      "topicos": [
+        {
+          "id": "reforma-tributaria::t::efde218f",
+          "numero": "1",
+          "titulo": "Emenda Constitucional nº 132/2023",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::efde218f::s::422ab861",
+              "texto": "Emenda Constitucional nº 132/2023",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::62d6618c",
+          "numero": "2",
+          "titulo": "Lei Complementar nº 214/2025",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::62d6618c::s::a962f56b",
+              "texto": "Lei Complementar nº 214/2025",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::9e911c9d",
+          "numero": "3",
+          "titulo": "Lei Complementar nº 227/2026",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::9e911c9d::s::5f75bea7",
+              "texto": "Lei Complementar nº 227/2026",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::1e227d9d",
+          "numero": "4",
+          "titulo": "Resolução CGIBS nº 6/2026, alterada pela Resolução CGIBS nº 13/2026 (Regulamento do IBS)",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::1e227d9d::s::9e2df95b",
+              "texto": "Resolução CGIBS nº 6/2026, alterada pela Resolução CGIBS nº 13/2026 (Regulamento do IBS)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::89f1d57b",
+          "numero": "5",
+          "titulo": "IBS, CBS e Imposto Seletivo",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::89f1d57b::s::fc5f7872",
+              "texto": "IBS, CBS e Imposto Seletivo",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::38319204",
+          "numero": "6",
+          "titulo": "Princípio do destino",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::38319204::s::7d09856f",
+              "texto": "Princípio do destino",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::2e7b2baf",
+          "numero": "7",
+          "titulo": "Incidência, não incidência, imunidades, fato gerador, base de cálculo, alíquotas e sujeição passiva",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::2e7b2baf::s::c7d981d9",
+              "texto": "Incidência, não incidência, imunidades, fato gerador, base de cálculo, alíquotas e sujeição passiva",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::24497558",
+          "numero": "8",
+          "titulo": "Não cumulatividade e apropriação de créditos",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::24497558::s::02d20ef4",
+              "texto": "Não cumulatividade e apropriação de créditos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::60aabb6d",
+          "numero": "9",
+          "titulo": "Extinção dos débitos, ressarcimento e pagamento indevido",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::60aabb6d::s::8e58f527",
+              "texto": "Extinção dos débitos, ressarcimento e pagamento indevido",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::249cf16c",
+          "numero": "10",
+          "titulo": "Importação e exportação",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::249cf16c::s::971a29a5",
+              "texto": "Importação e exportação",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::eb7e0baa",
+          "numero": "11",
+          "titulo": "Cashback e Cesta Básica Nacional",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::eb7e0baa::s::1988ebae",
+              "texto": "Cashback e Cesta Básica Nacional",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::b1f9156d",
+          "numero": "12",
+          "titulo": "Regimes diferenciados e específicos",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::b1f9156d::s::1a00d11d",
+              "texto": "Regimes diferenciados e específicos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::877336e1",
+          "numero": "13",
+          "titulo": "Administração Tributária e Comitê Gestor do IBS",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::877336e1::s::074c5ee5",
+              "texto": "Administração Tributária e Comitê Gestor do IBS",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::f84e4443",
+          "numero": "14",
+          "titulo": "Processo Administrativo Tributário do IBS",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::f84e4443::s::abdd69eb",
+              "texto": "Processo Administrativo Tributário do IBS",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::e1e53b9f",
+          "numero": "15",
+          "titulo": "Distribuição do produto da arrecadação do IBS",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::e1e53b9f::s::1fe47c9d",
+              "texto": "Distribuição do produto da arrecadação do IBS",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::1995b9d4",
+          "numero": "16",
+          "titulo": "Regras de transição do IBS, CBS e ICMS",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::1995b9d4::s::6c2597be",
+              "texto": "Regras de transição do IBS, CBS e ICMS",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::e039bcff",
+          "numero": "17",
+          "titulo": "Split payment",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::e039bcff::s::88d586bf",
+              "texto": "Split payment",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::60f27705",
+          "numero": "18",
+          "titulo": "Apuração assistida",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::60f27705::s::8cfc05d1",
+              "texto": "Apuração assistida",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::0d6e2c35",
+          "numero": "19",
+          "titulo": "Sistema Nacional de Gestão de Informações Territoriais (Sinter) e Cadastro Imobiliário Brasileiro (CIB)",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::0d6e2c35::s::3375daff",
+              "texto": "Sistema Nacional de Gestão de Informações Territoriais (Sinter) e Cadastro Imobiliário Brasileiro (CIB)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::2e9d0cd4",
+          "numero": "20",
+          "titulo": "Tabela de Código de Crédito Presumido do IBS e CBS (cCredPres)",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::2e9d0cd4::s::6713dfaf",
+              "texto": "Tabela de Código de Crédito Presumido do IBS e CBS (cCredPres)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "reforma-tributaria::t::897a0442",
+          "numero": "21",
+          "titulo": "Novas obrigações acessórias: DeRE, Nota Fiscal de Alienação de Bens Imóveis (NF-ABI), Nota Fiscal de Água e Saneamento (NFAg), Bilhete de Passagem Eletrônico Aéreo (BP-e Aéreo), Nota Fiscal de Gás (NF-e Gás) e declarações e documentos fiscais das plataformas digitais",
+          "subtopicos": [
+            {
+              "id": "reforma-tributaria::t::897a0442::s::ae667358",
+              "texto": "Novas obrigações acessórias: DeRE, Nota Fiscal de Alienação de Bens Imóveis (NF-ABI), Nota Fiscal de Água e Saneamento (NFAg), Bilhete de Passagem Eletrônico Aéreo (BP-e Aéreo), Nota Fiscal de Gás (NF-e Gás) e declarações e documentos fiscais das plataformas digitais",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "auditoria-fiscal",
+      "nome": "Auditoria Fiscal",
+      "peso": 1.0,
+      "topicos": [
+        {
+          "id": "auditoria-fiscal::t::aa2ff37f",
+          "numero": "1",
+          "titulo": "Sistema Público de Escrituração Digital (SPED)",
+          "subtopicos": [
+            {
+              "id": "auditoria-fiscal::t::aa2ff37f::s::d1cb9cf3",
+              "texto": "Sistema Público de Escrituração Digital (SPED)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "auditoria-fiscal::t::2e487875",
+          "numero": "2",
+          "titulo": "Manual de Orientação ao Contribuinte da NF-e e NFC-e (MOC - versão 7.0)",
+          "subtopicos": [
+            {
+              "id": "auditoria-fiscal::t::2e487875::s::28c7e456",
+              "texto": "Manual de Orientação ao Contribuinte da NF-e e NFC-e (MOC - versão 7.0)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "auditoria-fiscal::t::8ea5eec6",
+          "numero": "3",
+          "titulo": "Guia Prático da EFD ICMS/IPI (versão 3.2.2)",
+          "subtopicos": [
+            {
+              "id": "auditoria-fiscal::t::8ea5eec6::s::f6da085f",
+              "texto": "Guia Prático da EFD ICMS/IPI (versão 3.2.2)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "auditoria-fiscal::t::d29bc5f3",
+          "numero": "4",
+          "titulo": "Manual de Orientação ao Contribuinte do CT-e e CT-e OS (versão 4.0)",
+          "subtopicos": [
+            {
+              "id": "auditoria-fiscal::t::d29bc5f3::s::296b2f68",
+              "texto": "Manual de Orientação ao Contribuinte do CT-e e CT-e OS (versão 4.0)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "auditoria-fiscal::t::758fbeb9",
+          "numero": "5",
+          "titulo": "Manual de Orientação ao Contribuinte do MDF-e (versão 3.0b)",
+          "subtopicos": [
+            {
+              "id": "auditoria-fiscal::t::758fbeb9::s::9420686b",
+              "texto": "Manual de Orientação ao Contribuinte do MDF-e (versão 3.0b)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "auditoria-fiscal::t::6026d28a",
+          "numero": "6",
+          "titulo": "Tabelas nacionais CFOP, CST, CSOSN e cBenef",
+          "subtopicos": [
+            {
+              "id": "auditoria-fiscal::t::6026d28a::s::3a2be796",
+              "texto": "Tabelas nacionais CFOP, CST, CSOSN e cBenef",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "auditoria-fiscal::t::a3478bf2",
+          "numero": "7",
+          "titulo": "Cruzamento e consistência entre documentos fiscais eletrônicos e EFD ICMS/IPI",
+          "subtopicos": [
+            {
+              "id": "auditoria-fiscal::t::a3478bf2::s::6a5cefb9",
+              "texto": "Cruzamento e consistência entre documentos fiscais eletrônicos e EFD ICMS/IPI",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "auditoria-fiscal::t::bdb7a6aa",
+          "numero": "8",
+          "titulo": "Identificação de omissão de receitas, divergências de escrituração, créditos indevidos e inconsistências fiscais",
+          "subtopicos": [
+            {
+              "id": "auditoria-fiscal::t::bdb7a6aa::s::28f59f3e",
+              "texto": "Identificação de omissão de receitas, divergências de escrituração, créditos indevidos e inconsistências fiscais",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ciencia-de-dados",
+      "nome": "Ciência de Dados",
+      "peso": 1.0,
+      "topicos": [
+        {
+          "id": "ciencia-de-dados::t::86e5ef5b",
+          "numero": "1",
+          "titulo": "Dado, informação, conhecimento e inteligência",
+          "subtopicos": [
+            {
+              "id": "ciencia-de-dados::t::86e5ef5b::s::3d8697f4",
+              "texto": "Dado, informação, conhecimento e inteligência",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "ciencia-de-dados::t::86e5ef5b::s::fa97822e",
+              "texto": "1.1 Dados estruturados e não estruturados",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "ciencia-de-dados::t::86e5ef5b::s::cecefba1",
+              "texto": "1.2 Dados abertos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "ciencia-de-dados::t::2608112a",
+          "numero": "2",
+          "titulo": "Coleta, tratamento, armazenamento, integração e recuperação de dados",
+          "subtopicos": [
+            {
+              "id": "ciencia-de-dados::t::2608112a::s::f064253b",
+              "texto": "Coleta, tratamento, armazenamento, integração e recuperação de dados",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "ciencia-de-dados::t::a3aad798",
+          "numero": "3",
+          "titulo": "Bancos de dados relacionais",
+          "subtopicos": [
+            {
+              "id": "ciencia-de-dados::t::a3aad798::s::3a4e7d48",
+              "texto": "Bancos de dados relacionais",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "ciencia-de-dados::t::a3aad798::s::ebe379d3",
+              "texto": "3.1 Conceitos e características",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "ciencia-de-dados::t::a3aad798::s::2a7fdbfe",
+              "texto": "3.2 Metadados, tabelas, visões, índices, chaves e relacionamentos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "ciencia-de-dados::t::36fe7a55",
+          "numero": "4",
+          "titulo": "Modelagem relacional, dimensional e multidimensional",
+          "subtopicos": [
+            {
+              "id": "ciencia-de-dados::t::36fe7a55::s::ba783528",
+              "texto": "Modelagem relacional, dimensional e multidimensional",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "ciencia-de-dados::t::139e8bf6",
+          "numero": "5",
+          "titulo": "Planilhas e SQL",
+          "subtopicos": [
+            {
+              "id": "ciencia-de-dados::t::139e8bf6::s::81c0fb85",
+              "texto": "Planilhas e SQL",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "ciencia-de-dados::t::97f4c0a7",
+          "numero": "6",
+          "titulo": "Processo de ciência de dados",
+          "subtopicos": [
+            {
+              "id": "ciencia-de-dados::t::97f4c0a7::s::b4346e06",
+              "texto": "Processo de ciência de dados",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "ciencia-de-dados::t::97f4c0a7::s::411c0cef",
+              "texto": "6.1 Modelo de referência CRISP-DM",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "ciencia-de-dados::t::97f4c0a7::s::addaf76d",
+              "texto": "6.2 Técnicas de pré-processamento de dados",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "ciencia-de-dados::t::cddef33e",
+          "numero": "7",
+          "titulo": "Visualização e análise exploratória de dados",
+          "subtopicos": [
+            {
+              "id": "ciencia-de-dados::t::cddef33e::s::fbe4fbc4",
+              "texto": "Visualização e análise exploratória de dados",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "ciencia-de-dados::t::2b1f4b06",
+          "numero": "8",
+          "titulo": "Mineração de dados",
+          "subtopicos": [
+            {
+              "id": "ciencia-de-dados::t::2b1f4b06::s::f7e6f627",
+              "texto": "Mineração de dados",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "ciencia-de-dados::t::2b1f4b06::s::793d1639",
+              "texto": "8.1 Classificação",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "ciencia-de-dados::t::2b1f4b06::s::5a8bc8d8",
+              "texto": "8.2 Regras de associação",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "ciencia-de-dados::t::2b1f4b06::s::0452f22f",
+              "texto": "8.3 Regressão",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "ciencia-de-dados::t::2b1f4b06::s::e45f181a",
+              "texto": "8.4 Análise de agrupamentos (clusterização)",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "ciencia-de-dados::t::2b1f4b06::s::fd69e53b",
+              "texto": "8.5 Detecção de anomalias",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            },
+            {
+              "id": "ciencia-de-dados::t::2b1f4b06::s::9c4fc4d2",
+              "texto": "8.6 Modelagem preditiva",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "ciencia-de-dados::t::4c068eef",
+          "numero": "9",
+          "titulo": "Aprendizado de máquina: fundamentos, principais algoritmos e métricas de desempenho",
+          "subtopicos": [
+            {
+              "id": "ciencia-de-dados::t::4c068eef::s::5a53d431",
+              "texto": "Aprendizado de máquina: fundamentos, principais algoritmos e métricas de desempenho",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "ciencia-de-dados::t::df935609",
+          "numero": "10",
+          "titulo": "Big Data: conceitos, premissas e aplicações",
+          "subtopicos": [
+            {
+              "id": "ciencia-de-dados::t::df935609::s::dd49aca0",
+              "texto": "Big Data: conceitos, premissas e aplicações",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "ciencia-de-dados::t::9fa981f6",
+          "numero": "11",
+          "titulo": "Business Intelligence",
+          "subtopicos": [
+            {
+              "id": "ciencia-de-dados::t::9fa981f6::s::4f06d182",
+              "texto": "Business Intelligence",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prova-discursiva",
+      "nome": "Prova Discursiva",
+      "peso": 1.0,
+      "topicos": [
+        {
+          "id": "prova-discursiva::t::0d2f9fea",
+          "numero": "1",
+          "titulo": "Questão discursiva de Ciência de Dados, até 30 linhas, 10 pontos",
+          "subtopicos": [
+            {
+              "id": "prova-discursiva::t::0d2f9fea::s::ea2945d1",
+              "texto": "Questão discursiva de Ciência de Dados, até 30 linhas, 10 pontos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "prova-discursiva::t::fa8f022e",
+          "numero": "2",
+          "titulo": "Questão discursiva de Auditoria Fiscal, até 30 linhas, 10 pontos",
+          "subtopicos": [
+            {
+              "id": "prova-discursiva::t::fa8f022e::s::15dd311c",
+              "texto": "Questão discursiva de Auditoria Fiscal, até 30 linhas, 10 pontos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "prova-discursiva::t::7115649f",
+          "numero": "3",
+          "titulo": "Questão discursiva de Finanças Públicas, até 30 linhas, 10 pontos",
+          "subtopicos": [
+            {
+              "id": "prova-discursiva::t::7115649f::s::226c0526",
+              "texto": "Questão discursiva de Finanças Públicas, até 30 linhas, 10 pontos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "prova-discursiva::t::dcf00bd1",
+          "numero": "4",
+          "titulo": "Questão discursiva de Reforma Tributária, até 30 linhas, 10 pontos",
+          "subtopicos": [
+            {
+              "id": "prova-discursiva::t::dcf00bd1::s::096bf9dc",
+              "texto": "Questão discursiva de Reforma Tributária, até 30 linhas, 10 pontos",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "prova-discursiva::t::cbae9fc6",
+          "numero": "5",
+          "titulo": "Avaliação do domínio do conteúdo e da capacidade de expressão na modalidade escrita",
+          "subtopicos": [
+            {
+              "id": "prova-discursiva::t::cbae9fc6::s::367177ff",
+              "texto": "Avaliação do domínio do conteúdo e da capacidade de expressão na modalidade escrita",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        },
+        {
+          "id": "prova-discursiva::t::c95f5361",
+          "numero": "6",
+          "titulo": "Uso das normas do registro formal padrão da Língua Portuguesa, coerência e coesão textual",
+          "subtopicos": [
+            {
+              "id": "prova-discursiva::t::c95f5361::s::b1c45a31",
+              "texto": "Uso das normas do registro formal padrão da Língua Portuguesa, coerência e coesão textual",
+              "concluido": false,
+              "notas": [],
+              "confianca": 0.0,
+              "justificativa": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "id": "exemplo-sefaz-al"
+}
