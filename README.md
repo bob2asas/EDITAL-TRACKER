@@ -23,11 +23,22 @@ python dashboard_generator.py --vault ""
 # 2. abra index.html no navegador
 ```
 
-Para ligar ao **seu** vault do Obsidian:
+Para ligar ao **seu** vault do Obsidian, a pasta do projeto precisa ficar
+**dentro do vault**, um nível abaixo de uma pasta de estudos:
+
+```
+<seu-vault>/
+└── <pasta de estudos>/        # ex.: "Concursos"
+    └── _edital-tracker/       # este repositório
+```
+
+O script se localiza sozinho a partir da própria pasta:
 
 ```bash
-python atualizar.py --vault "C:\caminho\do\vault"
+python atualizar.py
 ```
+
+Ele só **lê** as notas `.md`; nada no vault é alterado.
 
 Para cadastrar outro edital: coloque o texto do conteúdo programático em
 `editais/<id>/edital.txt`, crie `editais/<id>/info.json` (veja o do exemplo) e
