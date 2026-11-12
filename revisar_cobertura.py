@@ -59,6 +59,24 @@ def carregar_inventario() -> list[dict]:
     return dados["notas"] if isinstance(dados, dict) else dados
 
 
+def carregar_revisadas() -> set[str]:
+    """Nomes (normalizados) das notas ja revisadas que nao tem subtopico correspondente."""
+    arq = RAIZ / "data/notas-revisadas.json"
+    if not arq.exists():
+        return set()
+    dados = json.loads(arq.read_text(encoding="utf-8"))
+    return {normalizar(n) for n in dados.get("revisadas", {})}
+
+
+def gravar_pendencias(orfas: dict[str, str]) -> None:
+    """Grava a lista de pendencias para o painel mostrar o aviso no proprio HTML."""
+    destino = RAIZ / "data/pendencias.json"
+    destino.parent.mkdir(parents=True, exist_ok=True)
+    nomes = sorted(c.rsplit("/", 1)[-1][:-3] for c in orfas.values())
+    destino.write_text(json.dumps({"quantidade": len(nomes), "notas": nomes},
+                                  ensure_ascii=False, indent=1), encoding="utf-8")
+
+
 def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser(description="Aponta notas novas sem decisao de cobertura")
     p.add_argument("--silencioso", action="store_true",
@@ -92,9 +110,17 @@ def main(argv: list[str] | None = None) -> int:
                 citadas.add(normalizar(nome))
         editais.append((pasta.name, json.loads(arq_ed.read_text(encoding="utf-8"))))
 
-    orfas = {nome: cam for nome, cam in por_nome.items() if nome not in citadas}
+    # Notas que alguem JA revisou e concluiu que nenhum subtopico dos editais
+    # cadastrados depende delas (ex.: CPC 31 sem edital que o peca). Sem isto o
+    # aviso nunca zeraria e acabaria ignorado.
+    revisadas = carregar_revisadas()
+
+    orfas = {nome: cam for nome, cam in por_nome.items()
+             if nome not in citadas and nome not in revisadas}
     # notas de apoio (SQL aula a aula, MOCs) nao precisam aparecer uma a uma
     orfas = {n: c for n, c in orfas.items() if not n.startswith("aula ")}
+
+    gravar_pendencias(orfas)
 
     if not orfas:
         if not args.silencioso:

@@ -1483,6 +1483,36 @@ PAGINA = """<!doctype html>
 </html>"""
 
 
+def bloco_pendencias(caminho: Path) -> str:
+    """
+    Aviso fixo no topo do painel quando ha notas no vault que ainda nao foram
+    avaliadas para a cobertura. A cobertura vem do decisoes.json de cada edital
+    e NAO se recalcula sozinha; sem este aviso a nota nova parecia "ignorada".
+    Devolve "" quando nao ha pendencia (ou o arquivo nao existe).
+    """
+    from html import escape
+    try:
+        dados = json.loads(caminho.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return ""
+    n = int(dados.get("quantidade", 0) or 0)
+    if n <= 0:
+        return ""
+    itens = "".join("<li>" + escape(x) + "</li>" for x in dados.get("notas", [])[:60])
+    plural = "nota ainda nao foi avaliada" if n == 1 else "notas ainda nao foram avaliadas"
+    return (
+        '<div role="status" style="margin:0 0 14px;padding:10px 14px;'
+        'background:#fdf3e3;color:#1a1a19;border-left:4px solid #fab219;'
+        'border-radius:6px;font-size:13.5px;line-height:1.5">'
+        "<b>&#9888; " + str(n) + " " + plural + " para a cobertura.</b> "
+        "A porcentagem abaixo ainda <b>nao inclui</b> o que voce escreveu nelas: "
+        "a cobertura vem das decisoes gravadas e nao se recalcula sozinha. "
+        "Peca ao agente: <i>&ldquo;revise a cobertura com as notas novas&rdquo;</i>."
+        '<details style="margin-top:6px"><summary style="cursor:pointer">Ver as notas</summary>'
+        '<ul style="margin:6px 0 0 18px;padding:0">' + itens + "</ul></details></div>"
+    )
+
+
 def render(dados: dict, vault: str) -> str:
     js = JS.replace("__DADOS__", json.dumps(dados, ensure_ascii=False))
     js = js.replace("__VAULT__", json.dumps(vault, ensure_ascii=False))
@@ -1511,6 +1541,8 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--editais", default="editais", help="pasta dos editais")
     p.add_argument("-n", "--inventario", default="data/inventario.json")
     p.add_argument("-o", "--output", default="index.html")
+    p.add_argument("--pendencias", default="data/pendencias.json",
+                   help="notas ainda sem avaliacao de cobertura (gerado por revisar_cobertura.py)")
     p.add_argument("--vault", default="",
                    help="nome do vault para os links obsidian:// (vazio desativa)")
     p.add_argument("--abrir", action="store_true")
@@ -1548,11 +1580,11 @@ def main(argv: list[str] | None = None) -> int:
         print("ERRO: a saida nao pode ser .md", file=sys.stderr)
         return 1
     saida.parent.mkdir(parents=True, exist_ok=True)
-    saida.write_text(
-        render({"editais": editais, "acervo": acervo, "marcas": marcas},
-               args.vault),
-        encoding="utf-8",
-    )
+    html = render({"editais": editais, "acervo": acervo, "marcas": marcas},
+                  args.vault)
+    # aviso de notas ainda nao avaliadas, logo abaixo do cabecalho
+    html = html.replace("</header>", "</header>\n" + bloco_pendencias(Path(args.pendencias)), 1)
+    saida.write_text(html, encoding="utf-8")
 
     if not editais:
         print("nenhum edital em " + str(pasta) + "/ - dashboard gerado so com o Acervo")

@@ -98,17 +98,18 @@ def main(argv: list[str] | None = None) -> int:
             print("  [" + identificador + "] sem decisoes.json - mantido como esta"
                   "\n     (use --api para avaliar pela API, ou peca uma revisao)")
 
-    passo("3/4  Gerando o painel")
+    # O passo 2 REAPLICA as decisoes gravadas, nao reavalia. Entao uma nota nova
+    # entra no acervo sem mexer na cobertura. Conferimos ANTES de gerar o painel
+    # para que o aviso va dentro do proprio HTML (data/pendencias.json).
+    passo("3/4  Conferindo se alguma nota nova ficou de fora da cobertura")
+    pendente = not rodar(["revisar_cobertura.py"])
+
+    passo("4/4  Gerando o painel")
     comando = ["dashboard_generator.py", "--vault", vault.name]
     if not args.sem_abrir:
         comando.append("--abrir")
     if not rodar(comando):
         return 1
-
-    # O passo 2 REAPLICA as decisoes gravadas, nao reavalia. Entao uma nota nova
-    # entra no acervo sem mexer na cobertura. Aqui avisamos quando isso acontece.
-    passo("4/4  Conferindo se alguma nota nova ficou de fora da cobertura")
-    pendente = not rodar(["revisar_cobertura.py"])
 
     print("\nPronto. O painel esta em: " + str(RAIZ / "index.html"))
     if pendente:

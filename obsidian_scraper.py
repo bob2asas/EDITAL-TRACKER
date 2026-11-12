@@ -38,6 +38,10 @@ IGNORAR_PADRAO = [
     "_edital-tracker", "99 - Templates", "node_modules", ".smart-env",
     # nao sao material de estudo: caixa de entrada, projetos e automacao
     "00 - Inbox", "01 - Projetos", "Automacao", "imagens",
+    # Biblioteca Legal: texto oficial das leis, usado como alvo de links.
+    # E material de consulta, nao nota de estudo - entrar no acervo inflaria
+    # a contagem e o matcher passaria a "cobrir" subtopicos com o texto da lei.
+    "Legislacao",
 ]
 
 # Arquivos soltos na raiz do vault que nao sao nota de estudo
